@@ -28,3 +28,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithasaha2722&show_icons=true&locale=en" alt="prithasaha2722" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithasaha2722&" alt="prithasaha2722" /></p>
+
+### Activity Graph:
+
+<p align="center">
+<a href="https://github.com/prithasaha2722/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prithasaha2722&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/prithasaha2722/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prithasah2722&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
