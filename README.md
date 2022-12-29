@@ -1,19 +1,19 @@
 <h1 align="center">Hi 🙋🏻‍♀️ I'm Pritha Saha!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithasaha2722&label=Profile%20views&color=0e75b6&style=flat" alt="prithasaha2722" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prithasaha2722&label=Profile%20views&color=ADFF2F&style=flat" alt="prithasaha2722" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithasaha2722" alt="prithasaha2722" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithasaha2722" alt="prithasaha2722" /></a> </p>
 
-- 👩🏻 I’m a sophomore undergrad pursuing CSE at IEM Kolkata. **.**
+👩🏻 I’m a <i> sophomore undergrad </i> who is currently pursuing CSE at IEM Kolkata.
 
-- ✍🏻 I’m currently learning **Full Stack Development and Web3**
+✍🏻 I’m currently learning <i> **Full Stack Development and Web3** </i>
 
-- ❄️ I am intuitive, fast learner with a degree of optimism. I love to code and design functionalties based on real life problems. **.**
+❄️ I am intuitive, fast learner with a degree of optimism. I love to code and design functionalties based on real life problems.
 
-- 👩🏻‍💻 I am a Competitive Programming enthusiast working to improve my Problem Solving skills. **.**
+👩🏻‍💻 I am a Competitive Programming enthusiast working to improve my Problem Solving skills.
 
-- 📮 Email me at **prithasaha2722@gmail.com**
+📮 Email me at **prithasaha2722@gmail.com**
 
-- ⚡️ Fun fact **I am a Basketball player who roots for Golden State Warriors.**
+⚡️ Fun fact <i> **I am a Basketball player who roots for Golden State Warriors.** </i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
