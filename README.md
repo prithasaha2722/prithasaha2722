@@ -26,6 +26,7 @@
 ### GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=prithasaha2722&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+
 ### GitHub Stats:
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prithasaha2722&show_icons=true&theme=dark" />
