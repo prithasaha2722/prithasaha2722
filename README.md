@@ -1,9 +1,10 @@
 <h1 align="center">Hi 🙋🏻‍♀️ I'm Pritha Saha!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prithasaha2722&label=Profile%20views&color=ADFF2F&style=flat" alt="prithasaha2722" /> </p>
 
+
 👩🏻 I’m a <i> sophomore undergrad </i> who is currently pursuing CSE at IEM Kolkata.
 
-✍🏻 I’m currently learning <i> **Full Stack Development </i> and <i> Web3** </i>
+✍🏻 Currently learning <i> **Full Stack Development </i> and <i> Web3** </i>
 
 ❄️ I am intuitive, fast learner with a degree of optimism. I love to code and design functionalties based on real life problems.
 
