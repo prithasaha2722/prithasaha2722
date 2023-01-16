@@ -33,7 +33,7 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prithasaha2722&theme=dark" />
 </p>
 
-### Activity Graph:
+### Activity Graph :
 
 <p align="center">
 <a href="https://github.com/prithasaha2722/github-readme-activity-graph#gh-light-mode-only">
