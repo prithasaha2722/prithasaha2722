@@ -3,7 +3,7 @@
 
 👩🏻 I am a <i> sophomore undergrad </i> who is currently pursuing CSE at IEM Kolkata.
 
-✍🏻 Currently learning <i> **Full Stack Development </i> and <i> Web3** </i>
+✍🏻 Currently learning <i> **Full Stack Development </i> and <i> Web3** </i>.
 
 ❄️ I am intuitive, fast learner with a degree of optimism. I love to code and design functionalties based on real life problems.
 
