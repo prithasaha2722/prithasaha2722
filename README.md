@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🙋🏻‍♀️ I'm Pritha Saha!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prithasaha2722&label=Profile%20views&color=ADFF2F&style=flat" alt="prithasaha2722" /> </p>
 
-👩🏻 I am a <i> sophomore undergrad </i> who is currently pursuing CSE at IEM Kolkata.
+👩🏻 I am an <i> undergrad </i> who is currently pursuing CSE at IEM Kolkata.
 
-✍🏻 Currently learning <i> **Full Stack Development </i> and <i> Web3** </i>.
+✍🏻 I am an aspiring <i> **UI/UX/Product Designer** </i>.
 
 ❄️ I am intuitive, fast learner with a degree of optimism. I love to code and design functionalties based on real life problems.
 
-👩🏻‍💻 I am a Competitive Programming enthusiast working to improve my Problem Solving skills.
+👩🏻‍💻 I am also a Competitive Programming enthusiast working to improve my Problem Solving skills.
 
 📮 Email me at **prithasaha2722@gmail.com**
 
